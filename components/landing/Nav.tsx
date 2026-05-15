@@ -9,7 +9,7 @@ export function Nav() {
             <span className="relative flex h-7 w-7 items-center justify-center rounded-md bg-gradient-to-br from-[#ff1a4f] to-[#7a0020] shadow-[0_0_16px_rgba(255,0,60,0.6)]">
               <Flame className="h-4 w-4" />
             </span>
-            BLAZE<span className="text-cyber-red">.</span>
+            Karan Cheats<span className="text-cyber-red">.</span>
           </a>
           <div className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
             <a href="#features" className="hover:text-foreground transition-colors">Features</a>

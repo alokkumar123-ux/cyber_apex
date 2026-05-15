@@ -10,7 +10,7 @@ export function Footer() {
               <span className="flex h-7 w-7 items-center justify-center rounded-md bg-gradient-to-br from-[#ff1a4f] to-[#7a0020]">
                 <Flame className="h-4 w-4" />
               </span>
-              BLAZE<span className="text-cyber-red">.</span>
+              Karan Cheats<span className="text-cyber-red">.</span>
             </div>
             <p className="mt-3 text-sm text-muted-foreground max-w-xs">
               The premier Free Fire performance panel.
@@ -34,7 +34,7 @@ export function Footer() {
           </a>
         </div>
         <div className="mt-10 pt-6 border-t border-border flex flex-col md:flex-row justify-between gap-3 text-xs text-muted-foreground">
-          <div>© 2026 Blaze Panel. All rights reserved.</div>
+          <div>© 2026 Karan Panel. All rights reserved.</div>
           <div>Not affiliated with Garena or Free Fire.</div>
         </div>
       </div>

@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Blaze — Dominate the Battleground | Free Fire Panel",
+  title: "Karan Cheats — Dominate the Battleground | Free Fire Panel",
   description:
     "Premium undetected Free Fire panel with advanced aimbot, ESP, and anti-ban shield. Engineered for apex players.",
-  authors: [{ name: "Blaze" }],
+  authors: [{ name: "Karan Cheats" }],
   openGraph: {
-    title: "Blaze — Dominate the Battleground",
+    title: "Karan Cheats — Dominate the Battleground",
     description: "Premium undetected Free Fire panel. Aimbot, ESP, anti-ban shield.",
     type: "website",
   },
