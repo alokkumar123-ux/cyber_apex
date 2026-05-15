@@ -39,7 +39,7 @@ export function Features() {
           Built for <span className="text-gradient-red">apex</span> players.
         </h2>
         <p className="mt-4 text-muted-foreground max-w-xl mx-auto">
-          Four weapons. Zero compromise. Engineered to be the last panel you'll ever need.
+          Four weapons. Zero compromise. Engineered to be the last panel you&apos;ll ever need.
         </p>
       </motion.div>
 
